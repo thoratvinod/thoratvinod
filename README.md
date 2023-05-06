@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinod!
 - 👀 I’m interested in Web development, software developement in general
-- 🌱 I’m currently learning CI/CD in pipelines in Azure devops
+- 🌱 I’m currently working on microservices in golang.
 - 📫 How to reach me: just drop mail to me
 
 <!---
