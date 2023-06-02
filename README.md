@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinod!
-- 👀 I’m interested in Web development, software developement in general
+- 👀 I’m interested in Back-end development, microservices
 - 🌱 I’m currently working on microservices in golang.
 - 📫 How to reach me: just drop mail to me
 
